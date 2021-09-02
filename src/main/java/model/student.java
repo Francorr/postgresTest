@@ -4,6 +4,7 @@ public class student {
 private int ID;
 private String prova;
 
+
 public int getID() {
 	return ID;
 }
